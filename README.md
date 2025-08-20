@@ -31,7 +31,7 @@ A simple console-based Library Management System written in C++ that allows an a
 5. Return Book           🔒
 0. Exit
 
-## File Stracture
+## File Structure
 
 📦 LibraryManagementSystem
  ┣ 📄 main.cpp         # Main C++ source code
